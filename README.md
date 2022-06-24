@@ -154,9 +154,11 @@ success_url  = reverse_lazy(“blog:all”)
 
 #### Creating templates for Views
 
-- Create a new folder templates under the blog app.  Make templates to render the results. Configure the template settings.
+- Create a new folder `templates` under the blog app.  Make templates to render the results. Configure the template settings.
 
-check out 
+- Check out 
+
+> (django) $ sudo python3 manage.py runserver
 
 `http://127.0.0.1:8000/`
 
