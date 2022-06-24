@@ -110,7 +110,7 @@ from .models import Post
 admin.site.register(Post)
 ```
 
-#### Building Views 
+#### 11. Building Views 
 - In `blog/views.py`,  create a new view/class `PostListView`, which inherits django’s generic `ListView`,  
 it’s config/attributes should be:
 
@@ -148,11 +148,11 @@ fields = “__all__”
 success_url  = reverse_lazy(“blog:all”)
 ```
 
-#### Adding url patterns for Views
+#### 12. Adding url patterns for Views
 
 - Create a file, `blog/urls.py`, if it doesn’t already exist and update the contents.
 
-#### Creating templates for Views
+#### 13. Creating templates for Views
 
 - Create a new folder `templates` under the blog app.  Make templates to render the results. Configure the template settings.
 
