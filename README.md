@@ -166,4 +166,4 @@ check out
 
 #### Screenshots
 
-![](./screenshot.jpg)
+![](screenshot.JPG)
