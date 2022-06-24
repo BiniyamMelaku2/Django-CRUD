@@ -10,6 +10,8 @@ Django Models - Building A Blog Application With Django
 
 -[Django timezone.now](https://stackoverflow.com/questions/10783864/django-1-4-timezone-now-vs-datetime-datetime-now)
 
+-[starter file](https://github.com/TobeTek/Zuri/tree/main/starter-files/Django-CRUD)
+
 #### 1. Create a virtual env 
 
 > $ python3 -m venv venv
