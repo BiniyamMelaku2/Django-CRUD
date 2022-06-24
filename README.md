@@ -164,4 +164,6 @@ check out
 
 `http://127.0.0.1:8000/blog/`
 
-![blogs post](./screenshot.png)
+#### Screenshots
+
+![](./screenshot.jpg)
